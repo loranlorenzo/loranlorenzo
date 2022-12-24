@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Loran Lorenzo👋
 
-- 🌱 Estudando Python/ SQL/ JAVA
+- 🌱 SQL | PYTHON | PowerBi
 <div align="center">
   <a href="https://github.com/loranlorenzo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loranlorenzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="loran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="loran-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="loran-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
   ##
